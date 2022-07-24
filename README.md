@@ -15,6 +15,18 @@ Telegram bot to upload spotify playlist/artist/album/track music file to telegra
 - `/help` : Show help message 
 - `/start` : Show start message 
 
+### Deploy
+You can deploy this bot anywhere.
+
+<details><summary>Deploy To Heroku</summary>
+<p>
+<br>
+<a href="https://heroku.com/deploy?template=https://github.com/Fraud-boy-bgm/File-Sharing">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
+</p>
+</details>
+
 ## Telegram Support:
 
 [![Channel](https://img.shields.io/badge/TG-Channel-30302f?style=flat&logo=telegram)](https://t.me/xTeamBots)
